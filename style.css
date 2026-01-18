@@ -10,8 +10,13 @@ h6 {
   background-color: rgb(224, 136, 136);
 }
 body{background-color: rgb(175, 221, 235);
+     
     }
+img {
+  max-width: 100%;
+    height: auto;
+}
 .image {
-  width: 10%;
+  width: 50%;
   height: auto;
 }
